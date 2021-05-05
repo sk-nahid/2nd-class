@@ -36,3 +36,6 @@ input#submit{
 h4#forget-password{
     margin-top: 20px;
 }
+a{
+  color:aqua;
+}
